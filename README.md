@@ -1,5 +1,3 @@
-# 🚌 BRTS Bus Management System
-
 A Java-based desktop application that simulates a simplified **Bus Rapid Transit System (BRTS)**, enabling route planning, fare calculation, ticket generation, and transaction logging.
 
 ## 🚀 Features
